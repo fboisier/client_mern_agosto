@@ -9,7 +9,7 @@ const Inicio = () => {
     return (
         <div className="container mt-5">
             <div className="alert alert-info">
-                <h2>Bienvenido a Examen {usuario.nombre}</h2>
+                <h2>Bienvenido/da a Examen {usuario.nombre}</h2>
             </div>
         </div>
     )
